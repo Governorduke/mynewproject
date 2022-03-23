@@ -15,4 +15,8 @@ class Car{
     return this.name;
   }
   getModel() => this.model;
+
+getColor(){
+  return this.color;
+}
 }
